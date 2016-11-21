@@ -2,7 +2,7 @@
 
 
 ## SYNOPSIS  
-Automatic reports PowerShell script for HP Performance Manager
+Automatic reports PowerShell script for HP Performance Manager, it automatically generate reports, send them to specified contact email (file: contacts.xml) and keep a copy archived since the retention of HPOM agent is quite short.
 
 ## DESCRIPTION  
 A script to automatically generate reports from HP Performance 
