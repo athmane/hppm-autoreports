@@ -1,10 +1,8 @@
 # hppm-autoreports
 
-Automatic reports PS script for HP Performance Manager
-
 
 ## SYNOPSIS  
-Automatic reports for HP Performance Manager
+Automatic reports PowerShell script for HP Performance Manager
 
 ## DESCRIPTION  
 A script to automatically generate reports from HP Performance 
