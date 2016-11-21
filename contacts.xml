@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONTACTS>
+	<GROUP DisplayName="NODEGROUP_1">	
+		<CONTACT value="contactAAA@domain.com"/>
+	</GROUP>
+	<GROUP DisplayName="NODEGROUP_2">	
+		<CONTACT value="contactBBB@domain.com"/>
+	</GROUP>
+</CONTACTS>
