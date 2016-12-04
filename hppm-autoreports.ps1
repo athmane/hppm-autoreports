@@ -31,7 +31,7 @@ Param(
 
 [xml]$ovpmsystems = Get-Content $NodePath
 [xml]$contacts = Get-Content $ContactPath
-$date = $(date -format 'yyyy-MM-d')
+$date = $(date -format 'yyyy-MM-dd')
 
 foreach ($group in $ovpmsystems.LISTOF_GROUPS.GROUP) {
     if ($group.DisplayName -ne 'All') {
